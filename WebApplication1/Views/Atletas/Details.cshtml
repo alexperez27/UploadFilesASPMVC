@@ -1,0 +1,52 @@
+﻿@model WebApplication1.Models.Atleta
+
+@{
+    ViewBag.Title = "Detalle";
+
+    string DownloadFileUrl = ViewBag.DownloadFileUrl as string;
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Atleta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Imagen)
+        </dt>
+
+        <dd>
+            <img src="@(DownloadFileUrl + Model.RutaImagen)" width="100" height="100" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mimetype)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mimetype)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tamnio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tamnio)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,81 @@
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\jadpa25\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+G:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+G:\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+G:\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+G:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+G:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+G:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+G:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+G:\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+G:\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+G:\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+G:\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+G:\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+G:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+G:\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+G:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+G:\WebApplication1\WebApplication1\bin\WebGrease.dll
+G:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+G:\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+G:\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+G:\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+G:\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+G:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+G:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+G:\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+G:\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+G:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+G:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
